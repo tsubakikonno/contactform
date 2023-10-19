@@ -1,0 +1,102 @@
+
+
+    .contact-form__heading {
+        margin-left: 800px;
+    }
+
+    .form__label--item {
+
+        
+        padding-right: 140px;
+        white-space: normal;
+        width: 800px;
+    }
+
+.form__group-title {
+    margin-left: 35%;
+        height: 80px;
+        font-size: 20px;
+        font-weight: bold;
+        width: 800px;  
+
+	overflow: visible  
+}
+    .txt, .p-postal-code, .textarea {
+        width: auto;
+        height: 30px;
+        border-radius: 5px;
+        border: 2px solid #000;
+        
+    }
+    
+
+    .p-region, .p-locality, .p-street-address, .p-extended-address {
+   
+        width: auto;
+        height: 30px;
+        border-radius: 5px;
+        border: 2px solid #000;
+    }
+
+    
+    .form__button-submit {
+        margin: 40px 800px;
+
+        padding: 15px 20px 10px;
+        height: 60px;
+        font-size: 20px;
+        color: #fff;
+        background: #000;
+        border-radius: 10px;
+        font-weight: bold;
+    }
+    
+    
+    .confirm {
+        border: none;
+    }
+
+   
+
+    .form__error {
+        padding-left: 700px;
+    }
+
+   .retouch {
+   margin:0px 800px 1px;
+   font-size: 20px;
+   font-weight: lighter;
+   }
+
+   .example {
+
+    color: #797979;
+    margin-left: 280px;
+    font-weight: lighter;
+   }
+
+   .textarea {
+    position: absolute;
+    display: inline;
+    width: auto;
+    height: 100px;
+    border-radius: 5px;
+    resize:none;
+    border: 2px solid #000;
+   }
+
+   .thank__button-submit {
+    margin: 15px 800px;
+    width: 200px;
+    padding: 10px 10px 10px;
+    height: 60px;
+    font-size: 20px;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+
+
+
